@@ -1,0 +1,32 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Win7\Desktop\TurboC Programs\IJ projects\IdeaProjects\out\artifacts\linear.exe --l4j-debug
+WOW64:		no
+Working dir:	C:\Users\Win7\Desktop\TurboC Programs\IJ projects\IdeaProjects\out\artifacts\.
+Java min ver:	1.006.000
+Java max ver:	
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_172\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_172
+Check launcher:	C:\Program Files\Java\jre1.8.0_172\bin\javaw.exe (OK)
+Match:		1.008.000_172
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_171
+Ignore:		1.008.000_171
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_172
+Ignore:		1.008.000_172
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_172 (32-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_172\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Win7\Desktop\TurboC Programs\IJ projects\IdeaProjects\out\artifacts\linear.exe"
+Args length:	94/32768 chars
+Exit code:	0

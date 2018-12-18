@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9d31191-7954-428e-bf48-9e1255ac0a08" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/IdeaProjects$Main.ic" NAME="Main Coverage Results" MODIFIED="1543842183060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1740653382">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="955" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="955" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="IdeaProjects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kharsh/Poli.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kharsh/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="1870" column="178" selection-start-line="1870" selection-start-column="178" selection-end-line="1870" selection-end-column="178" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#15479#15480#0" expanded="true" />
+                <element signature="e#15531#15532#0" expanded="true" />
+                <element signature="e#53761#53762#0" expanded="true" />
+                <element signature="e#53816#53817#0" expanded="true" />
+                <element signature="e#180977#180978#0" expanded="true" />
+                <element signature="e#181026#181027#0" expanded="true" />
+                <element signature="e#183938#183939#0" expanded="true" />
+                <element signature="e#183985#183986#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Component.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33677">
+              <caret line="2183" column="16" selection-start-line="2183" selection-start-column="16" selection-end-line="2183" selection-end-column="16" />
+              <folding>
+                <element signature="e#74801#74802#0" expanded="true" />
+                <element signature="e#74838#74839#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kharsh/PImage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/GridBagConstraints.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10251">
+              <caret line="626" column="11" selection-start-line="626" selection-start-column="11" selection-end-line="626" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kharsh/StriFont.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kharsh/RecordOcenka.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kharsh/Send.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kharsh/CoordinateSystem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>parse</find>
+      <find>downtext</find>
+      <find>cs.clickScalarProduct = false;</find>
+      <find>font</find>
+      <find>cs.mm=</find>
+      <find>getText()</find>
+      <find>doPost</find>
+      <find>makeRecord</find>
+      <find>UTF8</find>
+      <find>UTF16</find>
+      <find>daNetnazad</find>
+      <find>nAzad</find>
+      <find>logoTip</find>
+      <find>cancel</find>
+      <find>&quot;cancel&quot;</find>
+      <find>cs.count</find>
+      <find>adresURL</find>
+      <find>viboruser</find>
+      <find>printIn</find>
+      <find>лине</find>
+      <find>menuLinearCombinations</find>
+      <find>nationsr</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cs.font</replace>
+      <replace>cs.mm=(int)(cs.fxp/7.5);</replace>
+      <replace>cs.mm=(int)(cs.fxp/3.5);</replace>
+      <replace>UTF16</replace>
+      <replace>UTF8</replace>
+      <replace>&quot;cancel&quot;</replace>
+      <replace>cs.canCel</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ss/src/com/kharsh/CoordinateSystem.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/GraphicsPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Point.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Poligon.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Circle.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/CentrOkruzhnosti.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Ocenka.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Line.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/PString.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Flag.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Relation.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/StriFont.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Poli.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Send.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/TableModel.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/RecordOcenka.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/PImage.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/LinesComponent.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/CoordinateSystem.java" />
+        <option value="$PROJECT_DIR$/src/com/kharsh/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="111" />
+    <option name="y" value="51" />
+    <option name="width" value="1755" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IdeaProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kharsh" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="android project&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Public/IJ projects/Copy6/IdeaProjects" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.kharsh.Main" />
+      <module name="IdeaProjects" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9d31191-7954-428e-bf48-9e1255ac0a08" name="Default" comment="" />
+      <created>1526107223930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526107223930</updated>
+      <workItem from="1526107235270" duration="42259000" />
+      <workItem from="1526276283328" duration="837000" />
+      <workItem from="1526318177990" duration="823000" />
+      <workItem from="1526342293799" duration="50000" />
+      <workItem from="1526342533465" duration="702000" />
+      <workItem from="1526616323581" duration="520000" />
+      <workItem from="1526698601051" duration="18388000" />
+      <workItem from="1526956755788" duration="1079000" />
+      <workItem from="1526958221511" duration="2369000" />
+      <workItem from="1527016172394" duration="24448000" />
+      <workItem from="1527052577565" duration="1168000" />
+      <workItem from="1527053912669" duration="116767000" />
+      <workItem from="1527547186547" duration="122784000" />
+      <workItem from="1528006614997" duration="100199000" />
+      <workItem from="1528406110460" duration="140052000" />
+      <workItem from="1529004255521" duration="23293000" />
+      <workItem from="1529096733082" duration="12142000" />
+      <workItem from="1529132975801" duration="109000" />
+      <workItem from="1529168835445" duration="12856000" />
+      <workItem from="1529207010985" duration="6396000" />
+      <workItem from="1529262925099" duration="17929000" />
+      <workItem from="1529337477257" duration="6059000" />
+      <workItem from="1529384607577" duration="104000" />
+      <workItem from="1529385818862" duration="2296000" />
+      <workItem from="1529437901647" duration="23489000" />
+      <workItem from="1529515544866" duration="10168000" />
+      <workItem from="1529609481367" duration="18834000" />
+      <workItem from="1529690284393" duration="26091000" />
+      <workItem from="1529773777801" duration="17993000" />
+      <workItem from="1529870752305" duration="5071000" />
+      <workItem from="1529896608209" duration="13000" />
+      <workItem from="1529954541543" duration="1448000" />
+      <workItem from="1529967254463" duration="291000" />
+      <workItem from="1530058041092" duration="638000" />
+      <workItem from="1530128900995" duration="7633000" />
+      <workItem from="1530197182855" duration="8582000" />
+      <workItem from="1530228125492" duration="7009000" />
+      <workItem from="1530316593781" duration="10186000" />
+      <workItem from="1530384652777" duration="15872000" />
+      <workItem from="1530468893292" duration="10438000" />
+      <workItem from="1530638381807" duration="39353000" />
+      <workItem from="1531135501316" duration="20000" />
+      <workItem from="1531216955197" duration="1830000" />
+      <workItem from="1531292905998" duration="1787000" />
+      <workItem from="1531313547378" duration="5617000" />
+      <workItem from="1531387733015" duration="9141000" />
+      <workItem from="1531402361554" duration="5527000" />
+      <workItem from="1531479857759" duration="1664000" />
+      <workItem from="1531560177445" duration="5919000" />
+      <workItem from="1531726279945" duration="6938000" />
+      <workItem from="1531740961513" duration="6428000" />
+      <workItem from="1531815407967" duration="6953000" />
+      <workItem from="1531915135432" duration="9990000" />
+      <workItem from="1531984442749" duration="41000" />
+      <workItem from="1532099423512" duration="632000" />
+      <workItem from="1532113754640" duration="16620000" />
+      <workItem from="1532252153920" duration="3796000" />
+      <workItem from="1532611154593" duration="5021000" />
+      <workItem from="1532683248306" duration="11875000" />
+      <workItem from="1532767215077" duration="4981000" />
+      <workItem from="1532944010413" duration="15079000" />
+      <workItem from="1533046097982" duration="1793000" />
+      <workItem from="1533105883750" duration="5109000" />
+      <workItem from="1533117871221" duration="3474000" />
+      <workItem from="1533125125036" duration="1216000" />
+      <workItem from="1533129701854" duration="4925000" />
+      <workItem from="1533151212287" duration="8073000" />
+      <workItem from="1533279695164" duration="11447000" />
+      <workItem from="1533301004804" duration="9759000" />
+      <workItem from="1533386925790" duration="389000" />
+      <workItem from="1533389192178" duration="7076000" />
+      <workItem from="1533460341424" duration="2802000" />
+      <workItem from="1533481981859" duration="6104000" />
+      <workItem from="1533538871072" duration="14246000" />
+      <workItem from="1533559793828" duration="6739000" />
+      <workItem from="1533892281193" duration="194000" />
+      <workItem from="1533892987053" duration="840000" />
+      <workItem from="1534054933277" duration="16761000" />
+      <workItem from="1534156598080" duration="65000" />
+      <workItem from="1534156992719" duration="598000" />
+      <workItem from="1534246454586" duration="11926000" />
+      <workItem from="1534314791036" duration="26891000" />
+      <workItem from="1534402883284" duration="7407000" />
+      <workItem from="1534419136778" duration="3990000" />
+      <workItem from="1534764536027" duration="5710000" />
+      <workItem from="1534919002556" duration="775000" />
+      <workItem from="1535295969596" duration="5005000" />
+      <workItem from="1535352249140" duration="4454000" />
+      <workItem from="1535439570202" duration="8782000" />
+      <workItem from="1535481683855" duration="3025000" />
+      <workItem from="1535526359107" duration="7320000" />
+      <workItem from="1535793121546" duration="11070000" />
+      <workItem from="1535891338292" duration="3499000" />
+      <workItem from="1535960374239" duration="13520000" />
+      <workItem from="1536002713816" duration="2578000" />
+      <workItem from="1536045877968" duration="8469000" />
+      <workItem from="1536087952458" duration="4783000" />
+      <workItem from="1536131171146" duration="8742000" />
+      <workItem from="1536173629194" duration="2120000" />
+      <workItem from="1536218246470" duration="7651000" />
+      <workItem from="1536309095343" duration="8655000" />
+      <workItem from="1536347540949" duration="12534000" />
+      <workItem from="1536489259241" duration="11160000" />
+      <workItem from="1536564817190" duration="10015000" />
+      <workItem from="1536606561020" duration="1810000" />
+      <workItem from="1536649597132" duration="10376000" />
+      <workItem from="1536691316179" duration="3015000" />
+      <workItem from="1536743811287" duration="7134000" />
+      <workItem from="1536777127591" duration="1634000" />
+      <workItem from="1536779136936" duration="669000" />
+      <workItem from="1536821383762" duration="10818000" />
+      <workItem from="1536866289221" duration="2183000" />
+      <workItem from="1536913215386" duration="2986000" />
+      <workItem from="1536917210601" duration="9610000" />
+      <workItem from="1536998986881" duration="30371000" />
+      <workItem from="1537168783869" duration="12823000" />
+      <workItem from="1537273324015" duration="3524000" />
+      <workItem from="1537342046697" duration="17486000" />
+      <workItem from="1537384844722" duration="1680000" />
+      <workItem from="1537430019210" duration="12316000" />
+      <workItem from="1537625495203" duration="36000" />
+      <workItem from="1537695886307" duration="1624000" />
+      <workItem from="1537862085636" duration="13053000" />
+      <workItem from="1537950105931" duration="5589000" />
+      <workItem from="1538047855310" duration="3018000" />
+      <workItem from="1538118260161" duration="13913000" />
+      <workItem from="1538210527285" duration="20385000" />
+      <workItem from="1538302004523" duration="8685000" />
+      <workItem from="1538378186330" duration="4724000" />
+      <workItem from="1538467534704" duration="5933000" />
+      <workItem from="1538550955015" duration="14055000" />
+      <workItem from="1538647841710" duration="14349000" />
+      <workItem from="1538816256650" duration="12675000" />
+      <workItem from="1538902904704" duration="8943000" />
+      <workItem from="1538983294747" duration="8871000" />
+      <workItem from="1539070197242" duration="14222000" />
+      <workItem from="1539156342464" duration="13071000" />
+      <workItem from="1539243677263" duration="15733000" />
+      <workItem from="1539326391671" duration="8946000" />
+      <workItem from="1539371448749" duration="693000" />
+      <workItem from="1539437157088" duration="11957000" />
+      <workItem from="1539506733396" duration="2421000" />
+      <workItem from="1539538366091" duration="658000" />
+      <workItem from="1539592190186" duration="19025000" />
+      <workItem from="1539674281410" duration="12364000" />
+      <workItem from="1539762698632" duration="9622000" />
+      <workItem from="1539849188847" duration="20056000" />
+      <workItem from="1539934539920" duration="4304000" />
+      <workItem from="1540021520637" duration="677000" />
+      <workItem from="1540022732667" duration="27894000" />
+      <workItem from="1540194877027" duration="11115000" />
+      <workItem from="1540366644109" duration="13850000" />
+      <workItem from="1540457208019" duration="596000" />
+      <workItem from="1540481822353" duration="1856000" />
+      <workItem from="1540583623545" duration="24839000" />
+      <workItem from="1540813780138" duration="3733000" />
+      <workItem from="1540839081086" duration="1374000" />
+      <workItem from="1540841283257" duration="492000" />
+      <workItem from="1540896414240" duration="6344000" />
+      <workItem from="1540988286830" duration="8085000" />
+      <workItem from="1541057438344" duration="14980000" />
+      <workItem from="1541079965459" duration="63000" />
+      <workItem from="1541143410127" duration="10842000" />
+      <workItem from="1541320172010" duration="9078000" />
+      <workItem from="1541494258539" duration="6417000" />
+      <workItem from="1541666907283" duration="11627000" />
+      <workItem from="1542008788497" duration="6684000" />
+      <workItem from="1542034802397" duration="10518000" />
+      <workItem from="1542275125779" duration="1010000" />
+      <workItem from="1542276234751" duration="395000" />
+      <workItem from="1542483107368" duration="2019000" />
+      <workItem from="1542551348090" duration="4350000" />
+      <workItem from="1542556132505" duration="3796000" />
+      <workItem from="1542567103616" duration="1603000" />
+      <workItem from="1542617183648" duration="2013000" />
+      <workItem from="1542806658440" duration="3172000" />
+      <workItem from="1542874126203" duration="1523000" />
+      <workItem from="1542966472557" duration="1864000" />
+      <workItem from="1543220649032" duration="615000" />
+      <workItem from="1543417239344" duration="9151000" />
+      <workItem from="1543492125872" duration="24257000" />
+      <workItem from="1543916804821" duration="42631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1935111000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.41949153" visible="true" weight="0.28825912" />
+      <window_info id="Structure" order="1" sideWeight="0.5011765" side_tool="true" weight="0.33656716" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5805085" side_tool="true" weight="0.2785235" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6291498" side_tool="true" visible="true" weight="0.3232682" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.44295302" weight="0.3559322" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925372" weight="0.32972136" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32884902" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50065106" side_tool="true" weight="0.32735425" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.3708502" weight="0.3232682" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.49858758" weight="0.010738255" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50141245" side_tool="true" visible="true" weight="0.010526316" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kharsh/LinesComponent.java</url>
+          <line>228</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kharsh/Main.java</url>
+          <line>4768</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kharsh/Main.java</url>
+          <line>4906</line>
+          <properties />
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="cs.clickPoints" language="JAVA" />
+        <watch expression="c" language="JAVA" />
+        <watch expression="parole" />
+        <watch expression="gcount" language="JAVA" />
+        <watch expression="cs.count" language="JAVA" />
+        <watch expression="nn" language="JAVA" />
+        <watch expression="(int)string.charAt(i)" language="JAVA" />
+        <watch expression="cs.line" language="JAVA" />
+        <watch expression="cs.fxp" language="JAVA" />
+        <watch expression="cs.white" language="JAVA" />
+        <watch expression="conn" language="JAVA" />
+        <watch expression="cs.stroka" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>cs.stroka</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>conn</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cs.white</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cs.fxp</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cs.line</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int)string.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nn</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cs.count</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>gcount</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cs.rr.a</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ss/src/com/kharsh/CLine.java" />
+    <entry file="file://$PROJECT_DIR$/ss/src/com/kharsh/CoordinateSystem.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/GraphicsPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/CentrOkruzhnosti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Ocenka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/DefaultButtonModel.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Line.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/PString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/Window.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/Dialog.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/WaitDispatchSupport.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/RepaintManager.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/Component.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Poligon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Flag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/javafx-src.zip!/javafx/geometry/Rectangle2D.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Relation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/TableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/javax/swing/JLabel.java" />
+    <entry file="file://C:/xampp/htdocs/kinomonster/index.php" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/awt/Font.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/LinesComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7956">
+          <caret line="484" column="24" selection-start-line="484" selection-start-column="24" selection-end-line="484" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Poli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33677">
+          <caret line="2183" column="16" selection-start-line="2183" selection-start-column="16" selection-end-line="2183" selection-end-column="16" />
+          <folding>
+            <element signature="e#74801#74802#0" expanded="true" />
+            <element signature="e#74838#74839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/PImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/GridBagConstraints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10251">
+          <caret line="626" column="11" selection-start-line="626" selection-start-column="11" selection-end-line="626" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/StriFont.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/RecordOcenka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Send.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/CoordinateSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="1162" column="16" selection-start-line="1162" selection-start-column="16" selection-end-line="1162" selection-end-column="16" />
+          <folding>
+            <element signature="e#40935#40936#0" expanded="true" />
+            <element signature="e#40962#40963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kharsh/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="1870" column="178" selection-start-line="1870" selection-start-column="178" selection-end-line="1870" selection-end-column="178" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#15479#15480#0" expanded="true" />
+            <element signature="e#15531#15532#0" expanded="true" />
+            <element signature="e#53761#53762#0" expanded="true" />
+            <element signature="e#53816#53817#0" expanded="true" />
+            <element signature="e#180977#180978#0" expanded="true" />
+            <element signature="e#181026#181027#0" expanded="true" />
+            <element signature="e#183938#183939#0" expanded="true" />
+            <element signature="e#183985#183986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>LinGeom:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IdeaProjects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
